@@ -25,7 +25,7 @@ def query_with_fetchall():
                                        user='root',
                                        password='lucia2019')
         #conn = MySQLConnection(**dbconfig)
-        #cursor = conn.cursor() """
+        #  cursor = conn.cursor() """
         connect()
         cursor.execute("SELECT * FROM Persons")
         rows = cursor.fetchall()
