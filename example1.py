@@ -38,4 +38,7 @@ print("the quot of " +str(num1)+ " and" +str(num2)+ " is " +str(quot_nums ))
 print("the prod of " +str(num1)+ " and" +str(num2)+" is " +str(prod_nums ))
 
 print("The cube of 2 is: " +str(2**3)) # 2 to the power of 3 cube
-print("The square_root of 64 is: " +str(64**0.5)) # 64 to the power of 0.5
+print("The square_root of 64 is: " +str(64**0.5))
+
+
+ # 64 to the power of 0.5
