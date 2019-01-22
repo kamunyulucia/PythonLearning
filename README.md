@@ -1,13 +1,13 @@
-programs for learning python
+Programs for learning python
 ============================
 
-requirements
+Requirements
 =============
 1. python 3.7 or later python 3.6
 2. visual studio code
 
 
-running the examples
+Running the examples
 =====================
 $ python example1.py
 
